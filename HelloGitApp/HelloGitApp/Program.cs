@@ -11,6 +11,7 @@ namespace HelloGitApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Git");
+            Console.WriteLine("this is SIT");
         }
     }
 }
